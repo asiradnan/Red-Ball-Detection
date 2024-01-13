@@ -7,16 +7,20 @@ This Python project utilizes OpenCV to detect red balls from images and videos.
 
 ## Demo
 
+
+
+
+
 Check out the demonstration videos to see the red ball detection in action.
 
 ### Image Detection Demo
 
-[![Image Detection Demo](videos/image_detection_preview.gif)](videos/image_detection.mp4)
+https://github.com/asiradnan/Red-Ball-Detection/assets/106885381/3b1443ae-93e2-4f95-9f0a-def8f92a1fa4
 
 
 ### Video Detection Demo
 
-[![Video Detection Demo](videos/video_detection_preview.gif)](videos/video_detection.mp4)
+[Video Detection Demo](ScreenRecords/red_ball_from_video.mp4)
 ## Installation
 
 Install my-project with npm
