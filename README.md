@@ -27,7 +27,7 @@ Install my-project with npm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/asiradnan/Red-Ball-Detection.git
     ```
 2. Install OpenCV (if you have not already): 
     ```bash
